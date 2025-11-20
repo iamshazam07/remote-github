@@ -2,8 +2,8 @@
 #A = a × b
 
 class Rectangle:
-    length=""
-    breadth=""
+    length=0
+    breadth=0
 
     def area_of_rectangle(self):
         A=self.length*self.breadth
