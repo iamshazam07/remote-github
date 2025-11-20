@@ -11,7 +11,7 @@ triangle=Triangle()
 
 triangle.base=int(input("Enter the base value : "))
 triangle.height=int(input("Enter the height value : "))
-s
+
 triangle.area_of_triangle()
 
 #area trapezium
